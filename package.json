@@ -2,6 +2,7 @@
   "name": "my-needle-engine-project",
   "version": "1.0.0",
   "type" : "module",
+  "homepage": "./",
   "scripts": {
     "start": "vite --host",
     "build:dev": "vite build",
